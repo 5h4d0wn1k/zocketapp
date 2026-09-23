@@ -62,5 +62,5 @@ Contributions are welcome — open an issue or pull request to propose changes.
 
 ## License
 
-This project is provided as-is for learning and development. No LICENSE file is
-bundled; reach out before redistributing.
+Proprietary - see LICENSE
+
